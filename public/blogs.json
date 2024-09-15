@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover_title": "The Midnight Tides",
+    "cover": "https://i.ibb.co/PFxVpmz/arnel-hasanovic-MNd-Rka1o0-Q-unsplash.jpg",
+    "author": "Lila Anderson",
+    "author_img": "https://example.com/author1.jpg",
+    "reading_time": "7h 45m",
+    "hashtags": ["#mystery", "#adventure", "#fantasy"]
+  },
+  {
+    "id": 2,
+    "cover_title": "Whispers in the Wind",
+    "cover": "https://example.com/cover2.jpg",
+    "author": "Nathan Pierce",
+    "author_img": "https://example.com/author2.jpg",
+    "reading_time": "6h 20m",
+    "hashtags": ["#romance", "#drama", "#historical"]
+  },
+  {
+    "id": 3,
+    "cover_title": "Echoes of Eternity",
+    "cover": "https://i.ibb.co/Yh8kBzX/three.jpg",
+    "author": "Sophia Reed",
+    "author_img": "https://example.com/author3.jpg",
+    "reading_time": "9h 10m",
+    "hashtags": ["#sci-fi", "#thriller", "#dystopian"]
+  },
+  {
+    "id": 4,
+    "cover_title": "A World Apart",
+    "cover": "https://i.ibb.co/31bxwTT/four.jpg",
+    "author": "Lucas Gray",
+    "author_img": "https://example.com/author4.jpg",
+    "reading_time": "5h 50m",
+    "hashtags": ["#romance", "#comedy", "#travel"]
+  },
+  {
+    "id": 5,
+    "cover_title": "The Silent Watch",
+    "cover": "https://i.ibb.co/GCZz3v6/five.jpg",
+    "author": "Emma Rivers",
+    "author_img": "https://example.com/author5.jpg",
+    "reading_time": "8h 30m",
+    "hashtags": ["#crime", "#mystery", "#suspense"]
+  }
+]
